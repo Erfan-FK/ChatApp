@@ -16,18 +16,20 @@ A simple chat application built using Java, designed for easy and real-time comm
 - Java
 - XML
 - Google Firebase
+
 - 
 ## Screenshots
+
 ### Row 1
-![Login/Sign Up Page](/screenshots/login_signup.png)
-![Sign Out](/screenshots/signout.png)
-![Create Account](/screenshots/create_account.png)
+<img src="/screenshots/login_signup.png" alt="Login/Sign Up Page" width="200" />
+<img src="/screenshots/signout.png" alt="Sign Out" width="200" />
+<img src="/screenshots/create_account.png" alt="Create Account" width="200" />
 
 ### Row 2
-![Recent Conversations](/screenshots/conversations.png)
-![Conversation](/screenshots/conversation.png)
-![Users](/screenshots/users.png)
+<img src="/screenshots/conversations.png" alt="Recent Conversations" width="200" />
+<img src="/screenshots/conversation.png" alt="Conversation" width="200" />
+<img src="/screenshots/users.png" alt="Users" width="200" />
 
 ### Row 3
-![Typing Message](/screenshots/messaging.png)
-![Google Firebase](/screenshots/database.png)
+<img src="/screenshots/messaging.png" alt="Typing Message" width="200" />
+<img src="/screenshots/database.png" alt="Google Firebase" width="200" />
