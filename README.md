@@ -13,12 +13,8 @@ A simple chat application built using Java, designed for easy and real-time comm
 
 ## Technologies Used
 - Android Studio
-- Java
-- XML
-- Google Firebase
-
-- 
-## Screenshots
+- Java & XML
+- Google Firebase Tools
 
 ## Screenshots
 
